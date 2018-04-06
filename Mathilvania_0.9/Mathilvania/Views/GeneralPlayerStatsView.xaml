@@ -1,0 +1,67 @@
+﻿<Page x:Class="Mathilvania.Views.GeneralPlayerStats"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mathilvania.Views"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="GeneralPlayerStats"
+      DataContext="{Binding GeneralPlayerStatsView,Source={StaticResource Locator}}">
+    <Page.Resources>
+        <Style TargetType="Label" BasedOn="{StaticResource StatsLabelStyle}"/>
+    </Page.Resources>
+    <Grid>
+        <GroupBox x:Name="Groupbox" Header="Общая статистика" Margin="5" Height="490" Width="720">
+            <Grid Margin="5" Background="GhostWhite" Opacity="0.87">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="1*"/>
+                    <RowDefinition Height="2*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                    <ColumnDefinition Width="1.5*"/>
+                </Grid.ColumnDefinitions>
+                <Label Content="Общее время:" Grid.Row="0" Grid.Column="0"/>
+                <Label Content="Игр сыграно:" Grid.Row="1" Grid.Column="0"/>
+                <Label Content="Побед:" Grid.Row="2" Grid.Column="0"/>
+                <Label Content="Поражений:" Grid.Row="3" Grid.Column="0"/>
+                <Label Content="Соотношение Побед/Поражений:" Grid.Row="4" Grid.Column="0"/>
+                <Label Content="Всего вопросов:" Grid.Row="5" Grid.Column="0"/>
+                <Label Content="Верных:" Grid.Row="6" Grid.Column="0"/>
+                <Label Content="Неверных:" Grid.Row="7" Grid.Column="0"/>
+                <Label Content="Соотношение В/Н:" Grid.Row="8" Grid.Column="0"/>
+
+                <TextBlock FontSize="18" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="{}{0:##}:{1:D2}:{2:D2}">
+                            <Binding Path="playingTime.TotalHours" />
+                            <Binding Path="playingTime.Minutes" />
+                            <Binding Path="playingTime.Seconds"/>
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+
+                <Label Content="{Binding countGames}" Grid.Row="1" Grid.Column="1"/>
+                <Label Content="{Binding countWin}" Grid.Row="2" Grid.Column="1" />
+                <Label Content="{Binding countLose}" Grid.Row="3" Grid.Column="1" />
+                <Label Content="{Binding ratioWinLose}" ContentStringFormat="{}{0:N2}" Grid.Row="4" Grid.Column="1" />
+                <Label Content="{Binding countQuestions}" Grid.Row="5" Grid.Column="1"/>
+                <Label Content="{Binding countTrueAnswers}" Grid.Row="6" Grid.Column="1"/>
+                <Label Content="{Binding countFalseAnswers}" Grid.Row="7" Grid.Column="1" />
+                <Label Content="{Binding ratioTrueFalseAnswers}" ContentStringFormat="{}{0:N2}" Grid.Row="8" Grid.Column="1" />
+                <Button Content="Сбросить статистику" Command="{Binding ClearStats}" FontSize="12" Grid.Row="9" Grid.Column="2" Width="Auto" Height="35"  HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
+
+</Page>

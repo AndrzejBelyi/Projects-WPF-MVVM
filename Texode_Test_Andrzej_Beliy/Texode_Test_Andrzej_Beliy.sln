@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Texode_Test_Andrzej_Beliy", "Texode_Test_Andrzej_Beliy\Texode_Test_Andrzej_Beliy.csproj", "{0E535F0F-E187-4A4F-90C8-2C967D681D06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E535F0F-E187-4A4F-90C8-2C967D681D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E535F0F-E187-4A4F-90C8-2C967D681D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E535F0F-E187-4A4F-90C8-2C967D681D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E535F0F-E187-4A4F-90C8-2C967D681D06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BA58D6-AF51-44DA-B9E4-B08297ECABF6}
+	EndGlobalSection
+EndGlobal

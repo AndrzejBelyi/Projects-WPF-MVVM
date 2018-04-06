@@ -1,0 +1,99 @@
+﻿<Page x:Class="Mathilvania.Views.TwoPlayersGameOptionsView"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:sys="clr-namespace:System;assembly=mscorlib"
+      xmlns:local="clr-namespace:Mathilvania.ViewModels"
+      xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="800"
+      Title="TwoPlayersGameOptionsView"
+    DataContext="{Binding TwoPlayersGameOptionsView, Source={StaticResource Locator}}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="1.5*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Начать игру" Command="{Binding StartGame_Click}" Grid.Row="1" Grid.Column="1" Cursor="Hand" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0"/>
+        <GroupBox x:Name="groupBox"
+                  Header="Опции" BorderBrush="Black" 
+                  Grid.Row="0" Grid.Column="1" 
+                  Margin="0" HorizontalAlignment="Center" VerticalAlignment="Center" Width="550" Height="265">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <GroupBox Header="Дополнительные параметры" Margin="2" IsEnabled="{Binding enabledSand}" Grid.Column="1">
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="2*"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <GroupBox x:Name="groupBox1" Grid.Column="1" Header="Операции" Margin="2">
+                            <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+                                <CheckBox x:Name="checkBox1" Margin="5" Content="+ " IsChecked="{Binding additionChecked}" Cursor="Hand" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="16"/>
+                                <CheckBox x:Name="checkBox2" Margin="5" Content=" - " IsChecked="{Binding substractChecked}" Cursor="Hand" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="16"/>
+                                <CheckBox x:Name="checkBox3" Margin="5" Content=" * " IsChecked="{Binding multiplicationChecked}" Cursor="Hand" HorizontalAlignment="Center"  VerticalAlignment="Center" FontSize="16"/>
+                            </StackPanel>
+                        </GroupBox>
+                        <GroupBox x:Name="groupBox2" Grid.Column="0" Header="Опции множеств" Margin="2">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="2*"/>
+                                    <RowDefinition Height="2*"/>
+                                </Grid.RowDefinitions>
+                                <CheckBox x:Name="checkBox" Grid.Column="0" Grid.ColumnSpan="2" Grid.Row="0" Content="Отрицательные числа" 
+                          IsChecked="{Binding negativeNumberChecked}"
+                          Cursor="Hand" HorizontalAlignment="Center" Margin="5" VerticalAlignment="Center"/>
+                                <Label x:Name="label" Content="Верхний лимит:" Grid.Row="1" Margin="5" VerticalAlignment="Top"/>
+                                <ComboBox SelectedItem="{Binding maxNumb}" Grid.Column="1" Grid.Row="1" SelectedIndex="1" Cursor="Hand" MaxDropDownHeight="60" Margin="25,5" VerticalAlignment="Top" >
+                                    <ComboBox.ItemsSource>
+                                        <x:Array Type="{x:Type sys:Int32}">
+                                            <sys:Int32>5</sys:Int32>
+                                            <sys:Int32>10</sys:Int32>
+                                            <sys:Int32>20</sys:Int32>
+                                            <sys:Int32>50</sys:Int32>
+                                            <sys:Int32>100</sys:Int32>
+                                            <sys:Int32>1000</sys:Int32>
+                                        </x:Array>
+                                    </ComboBox.ItemsSource>
+                                </ComboBox>
+                            </Grid>
+                        </GroupBox>
+                    </Grid>
+                </GroupBox>
+                <GroupBox Header="Сложность" Margin="2">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1*"/>
+                            <RowDefinition Height="5*"/>
+                        </Grid.RowDefinitions>
+                        <ComboBox x:Name="comboBox" 
+                                  Grid.Row="0"
+                  ItemsSource="{Binding listOfDifficulty}"
+                  DisplayMemberPath="Value"
+                  SelectedValuePath="Id"
+                  SelectedValue="{Binding selectedDifficulty}"
+                  VerticalAlignment="Top" Margin="2"/>
+                        <CheckBox x:Name="checkBox4" Content="Раздельный режим" IsChecked="{Binding splitMode}" HorizontalAlignment="Center" Grid.Row="1" VerticalAlignment="Top" Margin="0,20,0,0"/>
+
+
+                    </Grid>
+                </GroupBox>
+            </Grid>
+        </GroupBox>
+    </Grid>
+</Page>

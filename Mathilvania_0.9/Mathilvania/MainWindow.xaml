@@ -1,0 +1,27 @@
+﻿<Controls:MetroWindow x:Name="window" x:Class="Mathilvania.MainWindow"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"              
+        xmlns:local="clr-namespace:Mathilvania"
+        mc:Ignorable="d"
+        Title="ДОБРО ПОЖАЛОВАТЬ В MATHILVANIA!" Width="1280"  Height="720" MinWidth="800" MinHeight="600" MaxWidth="1920" MaxHeight="1080" WindowStartupLocation="CenterScreen" WindowState="Maximized" ResizeMode="CanResizeWithGrip" IgnoreTaskbarOnMaximize="True"
+        DataContext="{Binding MainWindow,Source={StaticResource Locator}}"
+                      Background="Black">
+    <Viewbox x:Name="mainViewBox" Stretch="Uniform">
+        <Grid Width="{Binding mainGridWidth}" Height="{Binding mainGridHeight}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1.3*"/>
+                <RowDefinition Height="10*"/>
+            </Grid.RowDefinitions>
+            <Image gif:ImageBehavior.AnimatedSource="Resources/BackGround.gif" gif:ImageBehavior.AutoStart="True" Grid.Row="0" Grid.RowSpan="2" Stretch="Fill"/>
+            
+            <Frame x:Name="MainFrame" Source="Views/MainMenuPage.xaml" Grid.Row="1" NavigationUIVisibility="Hidden" Focusable="False"/>
+            <Button x:Name="buttonMainMenu" Command="{Binding BtnMainMenu_Click}" Grid.Row="0" Content="Меню" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0,0,25,0" Width="80" Height="40" Focusable="False"/>
+            <Button x:Name="buttonMute" Width="80" Height="40" HorizontalAlignment="Left" Margin="25,0,0,0" Focusable="False" Click="ButtonMute_Click"/>
+        </Grid>
+    </Viewbox>
+</Controls:MetroWindow>

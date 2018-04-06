@@ -1,0 +1,284 @@
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Resources\Icons.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\MainWindow.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\App.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania_Content.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.cache
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.lref
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\BoxCat_Games_-_03_-_Battle_Special.mp3
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Lee_Rosevere_-_09_-_The_Last_Question.mp3
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe.config
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Mathilvania.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\App.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\MainWindow.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.baml
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.g.resources
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.Properties.Resources.resources
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csproj.GenerateResource.Cache
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.exe
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.pdb
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csprojResolveAssemblyReference.cache
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Click.wav
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Click2.wav
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Blop.wav
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh1.wav
+C:\Users\Анджей\documents\visual studio 2015\Projects\DIP\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh2.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe.config
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.exe
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Blop.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\BoxCat_Games_-_03_-_Battle_Special.mp3
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Click2.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Lee_Rosevere_-_09_-_The_Last_Question.mp3
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Click.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh1.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh2.wav
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\System.Windows.Interactivity.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.dll
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.xml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csprojResolveAssemblyReference.cache
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\Icons.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\IconsNonShared.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\MainWindow.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\App.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_Content.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.cache
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.lref
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\App.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\MainWindow.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.baml
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.g.resources
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.Properties.Resources.resources
+c:\Users\Анджей\Documents\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csproj.GenerateResource.Cache
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe.config
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.exe
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Blop.wav
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\BoxCat_Games_-_03_-_Battle_Special.mp3
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Click2.wav
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Lee_Rosevere_-_09_-_The_Last_Question.mp3
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Click.wav
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh1.wav
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh2.wav
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Mathilvania.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\System.Windows.Interactivity.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.dll
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.xml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\Icons.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\IconsNonShared.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\MainWindow.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\App.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_Content.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\GeneratedInternalTypeHelper.g.cs
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.cache
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.lref
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\App.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\MainWindow.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.baml
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.g.resources
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.Properties.Resources.resources
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csproj.GenerateResource.Cache
+f:\фффф\Visual Studio 2015\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Blop.wav
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\BoxCat_Games_-_03_-_Battle_Special.mp3
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Click2.wav
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Lee_Rosevere_-_09_-_The_Last_Question.mp3
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Click.wav
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh1.wav
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Resources\Swoosh2.wav
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe.config
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Mathilvania.exe
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Mathilvania.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.dll
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\bin\Debug\WpfAnimatedGif.xml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Resources\Icons.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\MainWindow.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\App.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania_Content.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.cache
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania_MarkupCompile.lref
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\App.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\MainWindow.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Resources\ResourceDictionary.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\AboutApplicationView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameControlsView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameOverTwoPlayersView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GameOverView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\GeneralPlayerStatsView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\MainMenuPage.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameOptionsView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\OnePlayerGameProcessView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameOptionsView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessSplitModeView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Views\TwoPlayersGameProcessView.baml
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.g.resources
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.Properties.Resources.resources
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.csproj.GenerateResource.Cache
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.exe
+C:\Users\Andrzej\Desktop\Диплом V2\Mathilvania\Mathilvania\obj\Debug\Mathilvania.pdb
